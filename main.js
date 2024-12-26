@@ -11,3 +11,5 @@ fetch('https://localhost:5000/api/user/')
   .catch(error => {
     console.error('Error fetching data:', error);
   });
+
+  alert("Hello")
